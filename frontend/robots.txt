@@ -1,0 +1,9 @@
+#robot: es un archivo de texto que se coloca
+#en la raiz de tu sitio web para indicar a los
+#motores de busqueda qué partes de tu sitio deben
+#ser rastreadas y cuales deben ser ignoradas
+
+User-agent: *
+Disallow: /private/ #Bloquea la carpeta 'private'
+Allow: / #Permite el resto del sitio
+Sitemap: https://peluqueria-black.vercel.app/sitemap.xml  # URL de tu sitemap
