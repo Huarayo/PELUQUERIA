@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /private/ # Bloquea esta carpeta
-Allow: /            # Permite el rastreo de todo lo demas
-
-Sitemap: 
