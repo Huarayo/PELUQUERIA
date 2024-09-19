@@ -1,0 +1,18 @@
+:root {
+  /* Colores principales */
+  --color-primary: #1c1c1c; /* Negro profundo */
+  --color-background: #f5f5f5; /* Blanco suave */
+  --color-secondary: #3a3a3a; /* Gris oscuro */
+  --color-accent: #c9a86a; /* Dorado suave */
+  --color-highlight: #f4e3e3; /* Rosa pálido */
+  --color-border: #e0e0e0; /* Gris claro */
+
+  /* Tipografías */
+  --font-primary: 'Roboto', sans-serif;
+  --font-secondary: 'Lora', serif;
+
+  /* Espaciado */
+  --spacing-small: 8px;
+  --spacing-medium: 16px;
+  --spacing-large: 24px;
+}
