@@ -1,16 +1,9 @@
-//sitemap: archivo en formato XML que enumera
-//todas las paginas importantes de tu sitio web
-//para que los motores de busqueda puedan 
-//encontrarlas e indexarlas eficientemente
 
 <?xml version="1.0" encoding="UTF-8"?>
-//Contiene todos los elementos url;;
-// xmlns define el espacio de nombres para la especificación del sitemap(para que los motores de busqueda entiendan lo que pongamos)
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://peluqueria-black.vercel.app</loc>
     <lastmod>2024-09-19</lastmod>
-    //la prioridad de la pagina en relacion con otras paginas del sitio
     <priority>1.0</priority>
   </url>
 </urlset>
